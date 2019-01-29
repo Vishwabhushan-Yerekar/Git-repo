@@ -1,0 +1,11 @@
+Thu Dec 27 10:45:29 IST 2018
+ INFO: Processing Embedded Interface Excel Importer Example.xls
+
+Thu Dec 27 10:45:29 IST 2018
+ WARNING: Component Name is Empty, ignoring the row :4
+Thu Dec 27 10:45:29 IST 2018
+ WARNING: Signal Name is Empty, ignoring the row :3
+Thu Dec 27 10:45:29 IST 2018
+ INFO:  Embedded Excel Read complete
+Thu Dec 27 10:45:29 IST 2018
+ INFO:  Embedded Excel conversion result: true

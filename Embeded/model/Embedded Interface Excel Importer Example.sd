@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_Embedded Interface Excel Importer Example" type="Dsl" name="Embedded Interface Excel Importer Example.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_Timeline" type="Note" fontName="Segoe UI" description="This diagram was automatically generated from Embedded Interface Excel Importer Example on 27/12/2018 10:45:29 by Import Embedded Interface from Excel" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7fa5c3f06ba4dcdb3a39223bf812981" type="DiagramName">
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="__abeded421d0d4630b43349cd5d8f7e0d" type="Description">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:TextStyle" xmi:id="_442ef54fd00b4ae8a52336c64598ab55"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_f25fd68f543d4c0eb21c1186fb83d027"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__eef8bab578b1476da0f5a64f2bd2e285" x="100" y="100"/>
+  </children>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#/"/>
+</notation:Diagram>
