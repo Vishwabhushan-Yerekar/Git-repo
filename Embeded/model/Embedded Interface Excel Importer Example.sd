@@ -12,5 +12,104 @@
     <element xsi:nil="true"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="__eef8bab578b1476da0f5a64f2bd2e285" x="100" y="100"/>
   </children>
+  <children xmi:type="notation:Node" xmi:id="_JRwCkCOWEem7Wvwoxh89eA" type="2006">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRwpoCOWEem7Wvwoxh89eA" type="5048"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRwpoSOWEem7Wvwoxh89eA" type="5053"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_JRwCkSOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JRwCkiOWEem7Wvwoxh89eA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_JRwCkyOWEem7Wvwoxh89eA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:ExternalInterface" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qmlBodyControlModule45RightDoor91out93"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JRwClCOWEem7Wvwoxh89eA"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_JRxQsCOWEem7Wvwoxh89eA" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRxQtiOWEem7Wvwoxh89eA" type="5082"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRxQtyOWEem7Wvwoxh89eA" type="7032">
+      <children xmi:type="notation:Shape" xmi:id="_JR2JMCOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR2JMiOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR2JMyOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#Right32doorEmbExcelImportDoor3232Field32Name321Statusout"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JR2JMSOWEem7Wvwoxh89eA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JR2JNCOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR2wQCOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR2wQSOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#Right32doorEmbExcelImportDoor3232Field32Name322Idout"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JR2JNSOWEem7Wvwoxh89eA"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_JRxQuCOWEem7Wvwoxh89eA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_JRxQuSOWEem7Wvwoxh89eA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_JRxQsSOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JRxQsiOWEem7Wvwoxh89eA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_JRxQsyOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_JRxQtCOWEem7Wvwoxh89eA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:CustomAction" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qmlEmbExcelImportDoorOutputSignalRightdoorout"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JRxQtSOWEem7Wvwoxh89eA" x="364"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_JRxQuiOWEem7Wvwoxh89eA" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRxQwCOWEem7Wvwoxh89eA" type="5082"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRx3wCOWEem7Wvwoxh89eA" type="7032">
+      <children xmi:type="notation:Shape" xmi:id="_JR-FACOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR-FAiOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR-sECOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#Back32doorEmbExcelImportWindow32Field32Name321sin"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JR-FASOWEem7Wvwoxh89eA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JR-sESOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR-sEyOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR-sFCOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#Back32doorEmbExcelImportWindow32Field32Name322bin"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JR-sEiOWEem7Wvwoxh89eA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JR-sFSOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR-sFyOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JR_TICOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#Back32doorEmbExcelImportWindow32Field32Name323Statusin"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JR-sFiOWEem7Wvwoxh89eA"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_JRx3wSOWEem7Wvwoxh89eA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_JRx3wiOWEem7Wvwoxh89eA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_JRxQuyOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JRxQvCOWEem7Wvwoxh89eA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_JRxQvSOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_JRxQviOWEem7Wvwoxh89eA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:CustomAction" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qmlEmbExcelImportWindowInputSignalBackdoorIn"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JRxQvyOWEem7Wvwoxh89eA" x="620"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_JRx3wyOWEem7Wvwoxh89eA" type="2006">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRx3yCOWEem7Wvwoxh89eA" type="5048"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_JRx3ySOWEem7Wvwoxh89eA" type="5053"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_JRx3xCOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JRx3xSOWEem7Wvwoxh89eA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_JRx3xiOWEem7Wvwoxh89eA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:ExternalInterface" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qmlBodyControlModule45BackDoor91in93"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JRx3xyOWEem7Wvwoxh89eA" x="878"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_LdPpwCOWEem7Wvwoxh89eA" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_LdQQ0COWEem7Wvwoxh89eA" type="5082"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_LdQQ0SOWEem7Wvwoxh89eA" type="7032">
+      <children xmi:type="notation:Shape" xmi:id="_LdUiQCOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_LdUiQiOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_LdUiQyOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qmlbf1864def5ce4bdf9e2a0005a7f214ad"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdUiQSOWEem7Wvwoxh89eA" x="370" y="28" width="184" height="18"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_LdVJUCOWEem7Wvwoxh89eA" type="3054" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_LdVJUiOWEem7Wvwoxh89eA" type="5078"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_LdVJUyOWEem7Wvwoxh89eA" type="5079"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:PrimitiveField" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qml2000dec119e446e8894cb4671fa6b1bc"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdVJUSOWEem7Wvwoxh89eA" x="370" y="46" width="184" height="18"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_LdQQ0iOWEem7Wvwoxh89eA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_LdQQ0yOWEem7Wvwoxh89eA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_LdPpwSOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_LdPpwiOWEem7Wvwoxh89eA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_LdPpwyOWEem7Wvwoxh89eA"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_LdPpxCOWEem7Wvwoxh89eA"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:CustomAction" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#qml1b3fc0c70b5e4db489a477bba93a2d0e"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdPpxSOWEem7Wvwoxh89eA" x="132" y="204" width="196" height="66"/>
+  </children>
   <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="Embedded%20Interface%20Excel%20Importer%20Example.sl#/"/>
 </notation:Diagram>
