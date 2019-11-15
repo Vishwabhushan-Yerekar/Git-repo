@@ -306,6 +306,7 @@ public class EE001 extends PageObjectBase {
 
 		Reporter.log("Step - 3- Fill pageHome form pageHome screen");
 System.out.println("done");
+System.out.println("completed");
 		/*
 		 * testReport.fillTableStep("Step 3", "Fill pageHome form pageHome screen");
 		 * 
